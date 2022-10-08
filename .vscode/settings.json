@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "exception": "cpp",
+        "*.tcc": "cpp",
+        "istream": "cpp",
+        "iostream": "cpp"
+    }
+}
